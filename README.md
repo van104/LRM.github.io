@@ -1,2 +1,0 @@
-# LRM.github.io
-LRM
